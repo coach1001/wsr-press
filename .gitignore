@@ -1,0 +1,5 @@
+packages/
+wsrPress/bin
+wsrPress/obj
+
+.vs/
